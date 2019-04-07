@@ -1,24 +1,29 @@
-# zoom-image
-Web component - Zoom Image
+# Project Name
+zoom-image
 
-## How to use ?
+## Installation
+
 import zoom-image.js component
 
 <head>
     <script src="./zoom-image.js"></script>
 </head>
 
-## Set tag
-    Attributes :
-        image: url image
-        height :  height display - default 400px
-
-    <zoom-image 
+## Usage
+  <zoom-image 
         image="your url image"
         height='600'
     >
     </zoom-image>
-
+ 
+   Attributes :
+        image: url image
+        height :  height display - default 400px
 
 # Demo
 https://elpoeta.github.io/zoom-image
+
+## License
+
+MIT
+
