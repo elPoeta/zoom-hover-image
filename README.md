@@ -4,7 +4,11 @@ Web component - Zoom Image
 ## How to use ?
 import zoom-image.js component
 
-### Set tag
+<head>
+    <script src="./zoom-image.js"></script>
+</head>
+
+## Set tag
     Attributes :
         image: url image
         height :  height display - default 400px
@@ -15,5 +19,6 @@ import zoom-image.js component
     >
     </zoom-image>
 
-    
 
+# Demo
+https://elpoeta.github.io/zoom-image
