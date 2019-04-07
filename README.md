@@ -20,6 +20,23 @@ import zoom-image.js component
         image: url image
         height :  height display - default 400px
 
+ # Inline Demo
+<!--
+```
+<custom-element-demo>
+  <template>
+      <script src="./components/zoom-image.js"></script>
+  </template>
+</custom-element-demo>
+```
+-->
+```html
+ <zoom-image
+                image='https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'
+                height='400'>
+</zoom-image>
+```    
+
 # Demo
 https://elpoeta.github.io/zoom-image
 
