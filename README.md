@@ -24,6 +24,8 @@ https://cdn.jsdelivr.net/gh/elPoeta/zoom-image@v1.0/components/zoom-image.js
 
 ## Usage
 
+default height: 400px
+
 ```html
 <zoom-image image="your url image" height="600"> </zoom-image>
 ```
