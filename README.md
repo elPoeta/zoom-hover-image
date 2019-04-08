@@ -32,6 +32,6 @@ default height: 400px
 
 # Demo
 
-https://elpoeta.github.io/zoom-image
+https://elpoeta.github.io/zoom-hover-image
 
 ## License MIT
