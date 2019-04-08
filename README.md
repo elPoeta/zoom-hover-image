@@ -4,6 +4,16 @@ zoom-image
 
 ## Installation
 
+### From npm
+
+run
+
+npm i -s zoom-hover
+
+import 'zoom-hover'
+
+### Or import js file
+
 import zoom-hover.js component
 
 ```html
@@ -14,11 +24,11 @@ import zoom-hover.js component
 
 ### Or use cdn
 
-https://cdn.jsdelivr.net/gh/elPoeta/zoom-image@v1.1/components/zoom-hover.js
+https://cdn.jsdelivr.net/gh/elPoeta/zoom-hover-image@v1.1/components/zoom-hover.js
 
 ```html
 <head>
-  <script src="https://cdn.jsdelivr.net/gh/elPoeta/zoom-image@v1.1/components/zoom-hover.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/elPoeta/zoom-hover-image@v1.1/components/zoom-hover.js"></script>
 </head>
 ```
 
